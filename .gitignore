@@ -6,3 +6,6 @@
 .externalNativeBuild
 /.idea/
 /.gradle/
+/.idea/markdown-navigator.xml
+/.idea/misc.xml
+/.idea/gradle.xml
